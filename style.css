@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Rowdies:wght@700&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    overflow: hidden;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
+}
